@@ -1,7 +1,2 @@
-# Assignment name
-##Getting Started
-- [ ] Accept the assignment and create your repository for submitting your work
-- [ ] In GitHub Desktop, clone the repository to your desktop.
-- [ ] Refer to Instructions folder for detailed assignment requirements and step-by-step instructions.
-
-
+# Unit 2 Debugging A Console App Lecture
+This contains the code which is used in the demonstration of debugging.  Students or teacher may download to try it out themselves.
